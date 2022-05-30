@@ -25,6 +25,8 @@
 
   ## Usage
 
+  To run this app simply install the node dependencies and then run the command ```node index```
+
   
 
   ## Contributing
