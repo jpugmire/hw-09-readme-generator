@@ -15,6 +15,8 @@
 
   * [Questions](#questions)
 
+  * [Demo](#demo)
+
   ## Installation
 
   To install necessary dependencies, run the following command:
@@ -46,4 +48,7 @@
   If you have any questions about the repo, open an issue or contact me here: jospugg@gmail.com.
   You can find more of my work at [jpugmire](https://github.com/jpugmire).
 
+  ## Demo
+  
+  Here is a video on youtube demonstrating the app's function: [link](https://www.youtube.com/watch?v=_NGG6mWOddM)
   
